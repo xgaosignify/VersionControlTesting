@@ -1,2 +1,1 @@
 # VersionControlTesting
-New Text
